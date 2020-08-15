@@ -8,7 +8,16 @@ namespace AdvanceCSharpFinalExam
     {
         static void Main(string[] args)
         {
-           
+            var genericClass = new GenericClass<int>();
+            genericClass.Add(1);
+            genericClass.Add(5);
+            genericClass.Add(8);
+
+            var list = genericClass.GetSorted();
+            foreach(var itm in list)
+            {
+                Console.WriteLine(itm);
+            }
 
             //event Test
             EventPublisher eventPublisher = new EventPublisher();
