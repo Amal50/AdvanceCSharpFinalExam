@@ -4,7 +4,6 @@ C:\Users\amala\Documents\GitHub\AdvanceCSharpFinalExam\AdvanceCSharpFinalExam\bi
 C:\Users\amala\Documents\GitHub\AdvanceCSharpFinalExam\AdvanceCSharpFinalExam\bin\Debug\netcoreapp3.1\AdvanceCSharpFinalExam.runtimeconfig.dev.json
 C:\Users\amala\Documents\GitHub\AdvanceCSharpFinalExam\AdvanceCSharpFinalExam\bin\Debug\netcoreapp3.1\AdvanceCSharpFinalExam.dll
 C:\Users\amala\Documents\GitHub\AdvanceCSharpFinalExam\AdvanceCSharpFinalExam\bin\Debug\netcoreapp3.1\AdvanceCSharpFinalExam.pdb
-C:\Users\amala\Documents\GitHub\AdvanceCSharpFinalExam\AdvanceCSharpFinalExam\obj\Debug\netcoreapp3.1\AdvanceCSharpFinalExam.csprojAssemblyReference.cache
 C:\Users\amala\Documents\GitHub\AdvanceCSharpFinalExam\AdvanceCSharpFinalExam\obj\Debug\netcoreapp3.1\AdvanceCSharpFinalExam.AssemblyInfoInputs.cache
 C:\Users\amala\Documents\GitHub\AdvanceCSharpFinalExam\AdvanceCSharpFinalExam\obj\Debug\netcoreapp3.1\AdvanceCSharpFinalExam.AssemblyInfo.cs
 C:\Users\amala\Documents\GitHub\AdvanceCSharpFinalExam\AdvanceCSharpFinalExam\obj\Debug\netcoreapp3.1\AdvanceCSharpFinalExam.csproj.CoreCompileInputs.cache
